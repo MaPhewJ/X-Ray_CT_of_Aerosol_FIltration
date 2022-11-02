@@ -1,3 +1,4 @@
 vedo
+pyvista
 imageio
 ipyvtklink
